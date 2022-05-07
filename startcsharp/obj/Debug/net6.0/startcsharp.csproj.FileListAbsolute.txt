@@ -1,0 +1,15 @@
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\bin\Debug\net6.0\startcsharp.exe
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\bin\Debug\net6.0\startcsharp.deps.json
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\bin\Debug\net6.0\startcsharp.runtimeconfig.json
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\bin\Debug\net6.0\startcsharp.dll
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\bin\Debug\net6.0\startcsharp.pdb
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.csproj.AssemblyReference.cache
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.AssemblyInfoInputs.cache
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.AssemblyInfo.cs
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.dll
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\refint\startcsharp.dll
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.pdb
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\startcsharp.genruntimeconfig.cache
+C:\Users\Azlan\Desktop\CodePractice\startcsharp\obj\Debug\net6.0\ref\startcsharp.dll
